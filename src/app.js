@@ -1,1 +1,1 @@
-console.log("app name A")
+console.log("app name C")
