@@ -1,3 +1,4 @@
 console.log("hello from fetch")
 console.log("hello from aa")
+let variables = "hello from"
 
