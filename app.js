@@ -1,1 +1,1 @@
-console.log("hello from")
+console.log("hello from fetch")
