@@ -160,3 +160,5 @@ git reset --hard HEAD~1
 
 
 git revert
+
+git add . && git commit -m "fonts"
