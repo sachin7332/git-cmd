@@ -106,3 +106,6 @@ git stash pop
 
 
 git log --oneline
+
+
+git push git@github.com-sachin:sachin7332/git-cmd.git --delete features/auth
