@@ -109,3 +109,31 @@ git log --oneline
 
 
 git push git@github.com-sachin:sachin7332/git-cmd.git --delete features/auth
+
+
+git checkout -b features/auth        
+
+
+touch login.js && git add login.js && git commit -m "login"
+touch register.js && git add register.js && git commit -m "register"
+touch forgot.js && git add forgot.js && git commit -m "forgot"
+
+git push origin features/auth        
+
+
+git checkout main
+git checkout features/auth        
+
+
+
+<COMMITS> 
+<3948542> (HEAD -> features/auth, origin/features/auth) forgot
+<66d1c73> register
+<dd78cf3> login
+<dd46c39> (origin/main, origin/HEAD, main) rm auth
+<2824b77> auth
+
+
+
+
+git push origin features/auth        
