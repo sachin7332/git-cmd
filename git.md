@@ -137,3 +137,10 @@ git checkout features/auth
 
 
 git push origin features/auth        
+
+
+git cherry-pick dd78cf3
+git merge features/auth   
+
+
+git add . && git commit -m "add master branch"
