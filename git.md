@@ -143,4 +143,20 @@ git cherry-pick dd78cf3
 git merge features/auth   
 
 
+
+git add .
+git commit -m "add master branch"
 git add . && git commit -m "add master branch"
+
+
+git checkout
+git checkout .
+
+
+git reset origin master
+git reset --mixed HEAD~1
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+
+
+git revert
