@@ -1,2 +1,4 @@
 hello from assets
-welcome
+welcome stg
+assets
+assets 2
